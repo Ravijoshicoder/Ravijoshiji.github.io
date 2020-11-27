@@ -2,7 +2,7 @@
 layout: post
 title:  "How To Earn Money Online by playing games."
 author: sal
-categories: [ Travel ]
+categories: [ Digital Marketing ]
 image: assets/images/earn-online.jpg
 toc: true
 ---
