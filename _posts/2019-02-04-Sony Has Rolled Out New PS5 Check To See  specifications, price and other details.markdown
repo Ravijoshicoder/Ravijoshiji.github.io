@@ -1,0 +1,59 @@
+---
+layout: post
+
+title:  "Sony Has Rolled Out New PS5 Check To See  specifications, price and other details.   !"
+categories: [ Jekyll ]
+image: assets/images/demo1.jpg
+youtubeId: 5QJsK83rQE0
+---
+
+## Everything You should know about  Digital edition vs Regular edition before Buying Sony PS5?	
+
+
+
+
+As we all know sony has already Reveled the upcoming date for new Sony ps5 by 9th November 2020 in india. Earlier sony had reported they were getting Trademark issue in india but according to new Report the	
+company has figured it out. However this 	
+time sony has confirmed that we expect to see ps5 in two variants Regular Edition and Digital edition. The Regular Edition(standard) will	
+set you back by 49,990 INR and for Digital Edition you have to pay 39,990 INR. 	
+
+## Digital vs Standard Edition:	
+lets understand how these two are different. before stepping into the further discussion the common difference between them is disc Drive .	
+<span style="background-color: #FFFF99">  The First and most significant difference between them the standard edition comes with disc drive and digital edition is purely non disc. 	
+  The digital version of ps5 is purely digital as it's name suggests, it won’t be compatible at all with games that come on a disc. In order to play games on the  ps5 digital edition  you have to download 	
+the games from online stores including PS5 and PS4 games, DVDs, and 4K UHD Blu-ray movies.</span>	
+one must consider that if you want to take advantage of free PS4 to PS5 upgrades, you'll need to use the PS5's disc drive to transfer physical PS4 games to the next-gen console.	
+
+![ps5 Digital vs standard edition](/assets/images/ps5family.png)	
+
+
+## Backward Compatibility: 	
+one of the biggest question is that would you be able to play ps4 games on ps5 ? sony has confirmed that you will be able to play ps4 games on ps5 means its backward compatible also you can play ps4 games on ps5 that you have purchased from store. However it's worth considering that not every ps4 games are compatible with ps5 so check before buying. 	
+
+## PS5 Dualsens controller unveiled:	
+
+PlayStation product manager [Toshimasa Aoki confirmed on Twitter](https://twitter.com/toshimasa_aoki?s=09) said in an Event that the DualSense controller has a headphone jack for wired headphones. This means you can keep using your PS4 wired gaming headset with the PS5. 	
+
+{% include youtubePlayer.html id=page.youtubeId %}
+*[Video source: playstation]*
+
+
+## will  ps4 online store  games work on ps5 digital Edition?	
+
+one thing you must consider that you have subscription in order to play online games. since it's backward compatibility you can play  both physical as well as digital games. 	
+
+> **Note: use same PSN ID on ps5.**	
+
+
+## what should you buy? which is best for you Digital vs standard?	
+
+![](/assets/images/horizon.jpg.webp)
+
+You might consider buying digital edition if you have a good internet connection plus  If you plan to purchase all of your PS5 games from the PlayStation Store, then it may be worth saving money and space with the PS5 Digital Edition.	
+on the other hand ps5 regular edition will give you more ease to play  physical as well as digital platform. it's good to go with regular edition beacause it supports both according to Me .
+
+
+
+
+
+
