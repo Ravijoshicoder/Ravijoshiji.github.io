@@ -50,8 +50,8 @@ one of the biggest question is that would you be able to play ps4 games on ps5 ?
 
 PlayStation product manager [Toshimasa Aoki confirmed on Twitter](https://twitter.com/toshimasa_aoki?s=09) said in an Event that the DualSense controller has a headphone jack for wired headphones. This means you can keep using your PS4 wired gaming headset with the PS5. 	
 
-{% include youtubePlayer.html id=page.youtubeId %}
-*[Video source: playstation]*
+
+
 
 
 ## will  ps4 online store  games work on ps5 digital Edition?	
