@@ -2,7 +2,7 @@
 layout: post
 title:  "The Reasons Why We Love The Digital Marketing Industry."
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Digital Marketing ]
 image: assets/images/digital-marketing.png
 ---
 
