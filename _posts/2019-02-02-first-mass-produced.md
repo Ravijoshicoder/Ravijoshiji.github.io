@@ -1,27 +1,133 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
+title:  "What is SEO? Search Engine Optimization Complete Basics in 2020"
 author: sal
 categories: [ tutorial ]
 image: assets/images/17.jpg
 tags: [featured]
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+  # what is SEO ? And why do we need it.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+Seo Stands For <mark>Search Engine Optimization</mark> , Basically Its a Technique used To Increase The Ranking of Any Website .Search Engine Optimization Consist Of search Engine and Optimization, now what is Search Engine? Its a platform In Which user Can Enter Anything like In Characters,numbers In a Search Box and Get their Results in Few seconds. For Ex. if we wants to buy An Acoustic Guitar then my search will be like Best acoustic Guitar in 2020. There Are Some Famous Search Engines Like *Google, Bing, Yahoo, DuckDuckGo* etc.]
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+### There Are Two Types Of Search Engine Results :
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+**1. Organic Results**
 
-To deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+Is Also Called **Natural Results** These Are Comes Under *unpaid* Category also the preciseness and Accuracy of these Search Results are Specific Accordance To The User's Search Result. If Your Web-page is properly Optimized Then Google Will Most Probably show the Search Results First On Top Position.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
 
-> The claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+**2. Inorganic Results**
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Is Also Called **NON-Organic** Results these Are Comes Under *Paid Category* That's Why It Provides Results In Very Short Time. Most Famous Inorganic SEO Includes PPC Pay-Per-Click Traffic has a Cost For Each Click And Other Advertising Services. 
+And Our Second Phase Is **Optimization** Is Finding The Best Solution From All Prioritized Solution's. It Is Maximize The Productivity, Strength, Reliability, Efficiency Also The Decision Making Process.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+## Some Factors Influences Search Engine Optimization These Are Following:
+
+- On Page SEO.
+
+- Off Page SEO.
+
+## ON PAGE SEO:
+
+It is Also Called* **On-Site** SEO. Mainly It Deals With Web-page Loading speed ,Content , Keyword Density, Site Performance,Responsive Design, Robots.txt Site map, Canonical URLs And Anchor Text Which Influences The on Page SEO. We Know It all Start With A Keywords So <mark> META TAG And META DESCRIPTION </mark> Plays A Important Role In Search Engine Optimization Also Some Other Factors which Influences On Page SEO These are Following:
+
+### META TAG:
+
+Meta Tags Are HTML Codes Which We Can See Easily In Head Section Of The Page Meta Tags Gives Detailed Information About Content Of The Page. With The Help Of Meta Tags Google's SERP Can Display Our Website Easily.
+for example i'm searching for nainital uttarakhand in which i'll show you meta title and description.
+![meta title and title Description](/assets/images/Screenshot_20200724_200803.jpg)
+
+
+### META DESCRIPTION TAG :
+
+Generally Meta Tag should be 150-160 words. With The Help Of This Tag We can tell Our Search Engine the Web-page We Have created is all about. 
+
+`Robots.txt`
+
+Basically **Robots.txt** Is a File That Tells Our Search Engines (google, Bing etc) Where to Crawl (Bots Scan The Content Thoroughly And Accumulate All The Details And analyze it. It Visits Websites To Read Their Pages In Order To Create **Index**. That Programs That Does Fetching is called bots,Spider ,Google bot. ) Or Where Not.
+
+**syntax of robots.txt**
+
+ 
+ ~~~
+    User-agent:* 
+    Disallow: 
+ 
+ ~~~  
+ 
+
+## off page seo:
+ 
+ Off page seo also called **off site seo**. Unlike on page seo it determines what you have done "off page" it focuses on link building backlinks, social media marketing (SMM) and guest post. here i wants to draw your attention that how you can increase your visibility online.
+
+
+## Gust posting: 
+
+by commenting on others websites you can easily draw ones attraction the most powerful comment you'll write it would be effective for you. 
+
+## Discussion forum:
+
+You can find forum discussion related to your topics join the community and influence others with your post also do not forget to click do follow links. 
+
+ ## social awareness:
+
+Social media marketing is a platform where you can promote your brands and it can zenerates leads for your business. These platform includes:
+
+- Facebook 
+- Youtube
+- Twitter 
+- Instagram 
+- Linkedin
+ - Pinterest 
+- Snapchat
+- Hubspot 
+
+by commenting on these platforms you can enhance your website visibility.
+
+## Newsletter:
+
+by commenting on these platforms you can enhance your website visibility.
+First thing you should know your community to whom you are targeting make short your newsletter remind ones do not bother appearing repeatedly. You can take help of email marketing strategy and sms marketing to increase your online visibility.
+
+## Backlinks:
+
+Also called **inbound links** or **incoming links**. When one website links another website is called backlinks.How you can create qualityful backlinks? According to googles penguin algorithm while practicing black hat seo you can get punished and banned from days to monts or years or forever.
+
+- By Finding broken or dead links.
+- Corner store articles can help you to create backlinks. some are great paid or free website to check broken links. 
+- By commenting on Guest post write good articles on others post so one will definitely check your website to find great content
+- By creating community and focus on your audience interest.
+- Ahrefs is great website for guest posting and search your taffic.
+ Even you can improve your page rank by "XML SITEMAP"
+
+## Google Adsense :
+
+[Google Adsense](https://www.google.com/adsense/new/u/0/pub-2375153923487656/home) was launched in march 2003. it's an advertisement program run by google. Google is not just a search engine it advertising features makes it supreme. Google Adsense program is top above all program and pay highest to it's users, that's why everyone recommends google Adsense.
+
+> Who can apply for google Adsense program? 
+
+1. Everyone who has a website can apply for Google Adsense program but there are some terms and conditions has given by google which is necessary to fulfill oyherwise your site would be rejected.
+2. Don't copy paste content from others website, pictures,gifs everything that comes under copyright. Although you can understand another person's view and write it with your perspective. This is called black hat practice and your site will be banned forever.
+3. Make a place for your ads to run otherwise Google Adsense won't accept your proposal.
+4. Don't place any abusive content on your website. 
+5. Atleast write 30 to 50 post. 
+6. Create about us, home,privacy policy, terms and condition page.
+7. Apply only when you website is having numerous visitor's.
+8. Your website should be atleast 6 months old domain. 
+9.upgrade your website over http to https adding ssl security layer. 
+10. Write atleast 1300-1500 words for each blog post. 
+11. No adultery materials, child abuse, illegal drugs and weapons activities are not allowed. 
+
+**Thanks for Reading!**
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
