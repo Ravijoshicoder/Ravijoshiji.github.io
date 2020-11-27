@@ -4,7 +4,7 @@ title:  "What should you buy console or pc ?"
 
 author: sal
 categories: [ Gaming ]
-image: assets/images/2.jpg
+image: assets/images/console-vs-pc.jpg
 ---
 
 
