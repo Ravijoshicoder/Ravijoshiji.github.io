@@ -4,7 +4,7 @@ title:  "Let's create a static website : in only 3 steps."
 author: sal
 categories: [ Wordpress Guide ]
 <!--image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80 -->
-image: assets/images/console-vs-pc.jpg
+image: assets/images/website-5725734_1280.png
 tags: [wordpress]
 ---
 
