@@ -18,7 +18,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-authors:
+author:
     sal:
       name:           Ravi Joshi
       site:           https://bloggingwithravi.com
