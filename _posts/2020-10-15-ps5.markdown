@@ -2,7 +2,8 @@
 layout: post
 title:  "sony has rolled out new PS5 check to see specifications, price and other details."
 author: sal
-categories: [ tutorial ]
+categories: [ Gaming]
+toc:  true
 image: assets/images/ps5family.png
 tags: [featured]
 ---
