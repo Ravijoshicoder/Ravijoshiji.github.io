@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  "Sony Has Rolled Out New PS5 Check To See  specifications, price and other details.   !"
+title:  "Sony Has Rolled Out New PS5 Check To See  specifications, price and other details!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 youtubeId: 5QJsK83rQE0
