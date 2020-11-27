@@ -27,13 +27,13 @@ authors:
       email:          bloggingwithraviOO7@gmail.com
       twitter:        https://mobile.twitter.com/bloggingwthravi
 
-    jane:
-      name:           Ravi Joshi
-      site:           https://bloggingwithravi.com
-      avatar:         /assets/images/20201127_115441.ico
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          bloggingwithraviOO7@gmail.com
-      twitter:        https://mobile.twitter.com/bloggingwthravi
+    #jane:
+     # name:           Ravi Joshi
+    #  site:           https://bloggingwithravi.com
+    #  avatar:         /assets/images/20201127_115441.ico
+    #  bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+     # email:          bloggingwithraviOO7@gmail.com
+     # twitter:        https://mobile.twitter.com/bloggingwthravi
  
 # Defaults
 defaults:
