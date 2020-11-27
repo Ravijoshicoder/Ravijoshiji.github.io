@@ -2,7 +2,7 @@
 layout: post
 title:  "How to choose a perfect Niche for Publishing Website"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Digital Marketing ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---
