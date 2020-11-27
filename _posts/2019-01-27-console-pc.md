@@ -3,7 +3,7 @@ layout: post
 title:  "What should you buy console or pc ?"
 
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Gaming ]
 image: assets/images/2.jpg
 ---
 
