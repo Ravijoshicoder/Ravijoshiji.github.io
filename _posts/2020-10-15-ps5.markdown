@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "sony has rolled out new PS5 check to see specifications, price and other details."
+title:  "Sony has rolled out new PS5 check to see specifications, price and other details."
 author: sal
 categories: [ Gaming]
 toc:  true
