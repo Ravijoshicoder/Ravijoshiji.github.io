@@ -18,6 +18,10 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
+ # Google Analytics
+google_analytics: UA—143528900-5
+  
+  
 authors:
     sal:
       name:           Ravi Joshi
