@@ -10,7 +10,7 @@ toc: true
 ### How To Earn Money Online by playing games.
 There are Hundred thousand ways to earn money online.
 
-## How to earn money while playing games and answering some questions as prediction.
+### How to earn money while playing games and answering some questions as prediction.
 
 There are thousands third party app Available on play store which is free but I’m going to share some applications by which not only you will have fun but earn a big amount of money just by prediction (yes I’m talking about sixth sense) upcoming in cricket matches as well as playing arena games like merze mania, fruits ninza, etc.
 
