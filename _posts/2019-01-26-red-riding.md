@@ -9,10 +9,10 @@ image: assets/images/3.jpg
  ## ghhghhhvhjh hgghjhuhgjhgg.
  
 	  
-	<table>
+<table>
 <colgroup>
  
- <col style="background-color:yellow;">
+ <col span="1" style="background-color:yellow;">
 </colgroup>
 <thead>
  <tr>
