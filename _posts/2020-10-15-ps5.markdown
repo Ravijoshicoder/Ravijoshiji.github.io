@@ -5,7 +5,7 @@ author: sal
 categories: [ Gaming]
 toc:  true
 image: assets/images/ps5family.png
-tags: [featured]
+tags: [sticky]
 ---
 	
 	
