@@ -5,6 +5,7 @@ author: sal
 categories: [ Digital Marketing ]
 image: assets/images/earn-online.jpg
 toc: true
+tag: [featured]
 ---
 
 ### How To Earn Money Online by playing games.
