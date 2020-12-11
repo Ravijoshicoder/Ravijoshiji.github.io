@@ -26,7 +26,11 @@ tags: [featured]
 
 ### Everything You should know about  Digital edition vs Regular edition before Buying Sony PS5?	
 
-
+<table>
+<colgroup>
+ <col span="2" style="background-color: cyan;">
+ <col style="background-color:yellow;">
+</colgroup>
 
 
 As we all know sony has already Reveled the upcoming date for new Sony ps5 by 9th November 2020 in india. Earlier sony had reported they were getting Trademark issue in india but according to new Report the	
