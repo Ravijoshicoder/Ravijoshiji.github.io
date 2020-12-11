@@ -12,7 +12,7 @@ image: assets/images/3.jpg
 <table>
 <colgroup>
  
- <col span="1" style="background-color:#ccffee;">
+ <col span="1" style="background-color:#f3fffb;">
 </colgroup>
 <thead>
  <tr>
