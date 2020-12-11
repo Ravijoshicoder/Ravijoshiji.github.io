@@ -30,7 +30,7 @@ image: assets/images/3.jpg
  
    
     
-    . Very), Cinderella, and King Winter. 
+    
 
 An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
 
