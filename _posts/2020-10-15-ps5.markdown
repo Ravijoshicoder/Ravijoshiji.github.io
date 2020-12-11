@@ -26,11 +26,7 @@ tags: [featured]
 
 ### Everything You should know about  Digital edition vs Regular edition before Buying Sony PS5?	
 
-<table>
-<colgroup>
- <col span="2" style="background-color: cyan;">
- <col style="background-color:yellow;">
-</colgroup>
+
 
 
 As we all know sony has already Reveled the upcoming date for new Sony ps5 by 9th November 2020 in india. Earlier sony had reported they were getting Trademark issue in india but according to new Report the	
@@ -74,7 +70,11 @@ You might consider buying digital edition if you have a good internet connection
 on the other hand ps5 regular edition will give you more ease to play  physical as well as digital platform. it's good to go with regular edition beacause it supports both according to Me .
 
 
-
+<table>
+<colgroup>
+ <col span="2" style="background-color: cyan;">
+ <col style="background-color:yellow;">
+</colgroup>
 
 
 
