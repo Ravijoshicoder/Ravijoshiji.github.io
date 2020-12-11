@@ -72,7 +72,7 @@ on the other hand ps5 regular edition will give you more ease to play  physical 
 
 <table>
 <colgroup>
- <col span="1" style="background-color:#E0FFFF;">
+ <col span="1" style="background-color:#7FFFD4;">
  
 </colgroup>
 
