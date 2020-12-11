@@ -82,32 +82,9 @@ on the other hand ps5 regular edition will give you more ease to play  physical 
   <th>Last Name</th>
   <th>Age</th>
  </tr>
-</thead>
-<tbody>
- <tr>
-  <td>John</td>
-  <td>Smith</td>
-  <td>31</td>
- </tr>
- <tr>
-  <td>Jane</td>
 
-  <td>White</td>
-  <td>32</td>
- </tr>
- <tr>
-  <td>Terry</td>
-  <td>Jones</td>
-  <td>41</td>
- </tr>
-</tbody>
-<tfoot>
- <tr>
-  <td></td>
-  <td>Average Age</td>
-  <td>34.67</td>
- </tr>
-</tfoot>
+
+  
 </table>
 
 
