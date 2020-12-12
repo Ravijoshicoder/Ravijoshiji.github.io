@@ -36,7 +36,7 @@ tags: [featured]
 	<div class="container h-100">
 		<div class="row justify-content-between align-items-center text-md-center text-lg-left">
 			<div class="col-lg-9">
-				<h3 class="font-weight-light text-dark">Get in <strong>Touch</strong> with <strong><i class="fab fa-codepen fa-2x"></i></strong> Your Audience.</h3>
+				<h1 class="font-weight-light text-dark">Get in <strong>Touch</strong> with <strong><i class="fab fa-codepen fa-2x"></i></strong> Your Audience.</h1>
 			</div>
 			<div class="col-lg-3 text-md-center text-lg-right mt-4 mb-4">
 				<a href="https://bloggingwithravi.com" class="btn btn-lg btn-outline-dark">Go</a>
