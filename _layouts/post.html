@@ -108,6 +108,11 @@ layout: default
             {% endif %}
             
             
+	<!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
+{% if site.adsense == "enabled" %}
+    {% include adsense-under-header.html %}
+{% endif %}		
+			
              <!-- Author Box -->
                 {% if page.author %}				
 				<div class="row mt-5">
@@ -152,3 +157,6 @@ layout: default
         </div>
     </div>
 </div>
+
+<!-- Related Post -->
+{% include related-posts.html %}
