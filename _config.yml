@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
  # Google Analytics
-google_analytics:  UA—143528900-5
+google_analytics: 'UA-143528900-5'
   
   
 authors:
