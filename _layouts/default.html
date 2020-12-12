@@ -83,6 +83,15 @@
         <ul class="mb-0"></ul>
     </div>
 
+	<!-- Site Tag
+    ================================================== -->
+    {% if page.url == '/' %}
+        <p class="sitetag">
+            {{ site.description }}
+        </p>
+    {% endif %}
+
+
     <!-- Content -->
     <main role="main" class="site-content">
         {{ content }}
