@@ -31,19 +31,7 @@ tags: [featured]
 
 
 
-<!-- Call to action -->
-<div class="jumbotron p-5 jumbotron-fluid bg-warning">
-	<div class="container h-100">
-		<div class="row justify-content-between align-items-center text-md-center text-lg-left">
-			<div class="col-lg-9">
-				<h1 class="font-weight-light text-dark">Get in <strong>Touch</strong> with <strong><i class="fab fa-codepen"></i></strong> Your Audience.</h1>
-			</div>
-			<div class="col-lg-3 text-md-center text-lg-right mt-4 mb-4">
-				<a href="https://bloggingwithravi.com" class="btn btn-lg btn-outline-dark">Go</a>
-			</div>
-		</div>
-	</div>
-</div>
+
 	
 	
 	
@@ -96,7 +84,19 @@ one thing you must consider that you have subscription in order to play online g
 You might consider buying digital edition if you have a good internet connection plus  If you plan to purchase all of your PS5 games from the PlayStation Store, then it may be worth saving money and space with the PS5 Digital Edition.	
 on the other hand ps5 regular edition will give you more ease to play  physical as well as digital platform. it's good to go with regular edition beacause it supports both according to Me .
 
-
+<!-- Call to action -->
+<div class="jumbotron p-5 jumbotron-fluid bg-warning">
+	<div class="container h-100">
+		<div class="row justify-content-between align-items-center text-md-center text-lg-left">
+			<div class="col-lg-9">
+				<h1 class="font-weight-light text-dark">Get in <strong>Touch</strong> with <strong><i class="fab fa-codepen"></i></strong> Your Audience.</h1>
+			</div>
+			<div class="col-lg-3 text-md-center text-lg-right mt-4 mb-4">
+				<a href="https://bloggingwithravi.com" class="btn btn-lg btn-outline-dark">Go</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 
 
