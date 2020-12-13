@@ -8,7 +8,7 @@ toc: true
 tag: [featured]
 ---
 
-### How To Earn Money Online by playing games.
+
 There are Hundred thousand ways to earn money online.
 
 ### How to earn money while playing games and answering some questions as prediction.
