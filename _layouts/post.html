@@ -83,16 +83,8 @@ layout: default
 				</span>
 			</div>
  
-	<!-- Related Posts
-================================================== -->
-<div class="{% unless page.categories == empty %} related-posts {% endunless %}">  
-
-    {% unless page.categories == empty %}
-    <h2 class="text-center mb-4">Explore more like this</h2>
-    {% endunless %}
-    
-    <div class="d-flex justify-content-center align-items-center">
-    
+	
+            
     <!-- Categories -->
     {% assign sortedCategories = page.categories | sort %}
     {% for category in sortedCategories %}
