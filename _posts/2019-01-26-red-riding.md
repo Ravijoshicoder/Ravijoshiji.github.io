@@ -6,7 +6,12 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
  
- 
+<div class="alert alert-danger" role="alert">
+    <i class="fas fa-bullhorn"></i> A simple danger alert-check it out! sindh aur is hai bhi bhi aur aur aur ke  aur bhi 
+	<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">×</span>
+    </button>
+</div> 
  
 	  
 <table>
