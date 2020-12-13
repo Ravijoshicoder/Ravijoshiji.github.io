@@ -8,7 +8,7 @@ image: assets/images/website-5725734_1280.png
 tags: [wordpress]
 ---
 
-# Let's create a static website : in only 3 steps.
+
 *how can create free static website with free hosting.*
 
 ## you are just 3 step far from launching your first Static website.
@@ -16,10 +16,10 @@ tags: [wordpress]
 
 **So, before Dive into the Topic I assume everyone is aware of static vs Dynamic websites. I will give you short intro about static vs dynamic websites** but won't dig deeper .
 
-# Static vs Dynamic?
+### Static vs Dynamic?
 Static websites loads faster because it runs on local server without database, no database enquiries , no template engine files can be cached and served immediatiely upon Request. While dynamic files changed on server and then served to its users.
 
-# what you'll need Before creating a static website.
+### what you'll need Before creating a static website.
 It's the easiest way to create your static website.
 
 - [Github account](https://github.com/).
@@ -43,18 +43,18 @@ So now we a're aware about our essential need:
 
 3. [Netlify](www.netlify.com) deploy and publish your site.
 
-# start with Github account signup if you don't have or login:
-## step1:
+## start with Github account signup if you don't have or login:
+### step1:
 
 Start with one click check Live Demo. Or search for theme I will address you a Free [minimal portfolio theme](https://github.com/luizdepra/hugo-coder)Fork it you will find the fork tab on right extreme corner. Now it's added to your Repository now goto the bottom of the page and click on Create with stackbit. as soon as you click on that button you will be redirected to stackbit platform.
 
-# Choose your headless CMS Platform.
-## Step 2.
+## Choose your headless CMS Platform.
+### Step 2.
 
 Let's start with stackbit registered Yourself Choose the platform like Jekyll , [11ty], Hugo now choose your CMS and good to go with sanity And pick up the lightest version after connecting with sanity it bundele up all your files and gives you interface to edit your site.
 
-# final step: Deploy your website on Netlify.
-## Step 3.
+## final step: Deploy your website on Netlify.
+### Step 3.
 
 Connect your site with Github account and choose a project repository if you don't have any account still you can deploy new site there drag and drop interface provides you facility connecting new sites without github. Now you have all integrated files on one place .
 
