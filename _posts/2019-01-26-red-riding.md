@@ -13,7 +13,7 @@ image: assets/images/3.jpg
     </button>
 </div> 
  
-<div class="alert alert-primary shadow-lg" role="alert">
+<div class="alert alert-orange shadow-lg" role="alert">
     A simple primary alert-check it out!
 </div>
 
