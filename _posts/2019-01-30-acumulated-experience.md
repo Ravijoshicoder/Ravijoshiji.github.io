@@ -8,8 +8,8 @@ image: assets/images/15.jpg
 
 
 <!-- add the button style & script -->
-        <link rel="stylesheet" href="https://unpkg.com/applause-button@3.3.0/dist/applause-button.css" />
-        <script src="https://unpkg.com/applause-button@3.3.0/dist/applause-button.js"></script>
+        
+
         
 
 
