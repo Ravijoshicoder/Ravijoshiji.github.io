@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "What should you buy console or pc ?"
-
+toc: true
+tag: featured
 author: sal
 categories: [ Gaming ]
 image: assets/images/console-vs-pc.jpg
@@ -9,7 +10,7 @@ image: assets/images/console-vs-pc.jpg
 
 
 
-## What should you buy console or pc ?
+
 
 When we talk about gaming everyones head turns out. A gamer can tell you that the Right gaming pc has a powerful durability and ability to customize but at the same time consoles(xbox,ps4 etc) have ease of use and powerful inbuilt integration makes it different. So let's talk about different aspects which looks symmetric by configuration but different from software and hardware's perspective. pc can be used for blogging,waching videos, listening audious, programming and for multi purpose uses but consoles constraints to gaming and only watch streamed contents from cloud applications.
 
