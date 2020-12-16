@@ -177,7 +177,7 @@ archive: false
 <div class="{% unless page.categories == empty %} related-posts {% endunless %}">  
 
     {% unless page.categories == empty %}
-    <h2 class="text-center mb-4">Explore more like this</h2>
+    <h3 class="text-center mb-4">Explore more like this</h3>
     {% endunless %}
     
     <div class="d-flex justify-content-center align-items-center">
@@ -186,7 +186,7 @@ archive: false
     {% assign sortedCategories = page.categories | sort %}
     {% for category in sortedCategories %}
     <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>                
-    {% endfor %} <hr> 
+    {% endfor %} 
 
     <!-- Tags -->  
     {% assign sortedTags = page.tags | sort %}
