@@ -2,8 +2,9 @@
 layout: default
 disqus: false
 archive: false
-post_class: post-template
 ---
+
+
 {% assign author = site.authors[page.author] %}
 <div class="container">
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
@@ -40,7 +41,8 @@ post_class: post-template
 
 <center><div class="fixed-content">
 <!-- add the button! -->
-  <applause-button style="width: 58px; height: 58px;"/> </div></center>
+ <div class="sticky-top sticky-top-offset text-center">
+	<applause-button style="width: 58px; height: 58px;"/> </div></div></center>
 	
 	
 <div class="container-lg pt-4 pb-4">
