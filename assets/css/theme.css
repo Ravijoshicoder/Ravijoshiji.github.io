@@ -695,16 +695,7 @@ article h1,article h2,article h3,article h4,article h5,article h6,article .h1,ar
 	font-weight:600;
 }
 
-.fixed-content {
-    position: fixed;
-    top: 0;
-    bottom:0;
 
-    width: 100vw; /* viewport width */
-    height: 100vh; /* viewport height */
-    overflow-y: scroll;
-    overflow-x: hidden;
-}
 .alertbar {
 	box-shadow:0 -3px 10px 0 rgba(0,0,0,.0785);
 	position:fixed;
