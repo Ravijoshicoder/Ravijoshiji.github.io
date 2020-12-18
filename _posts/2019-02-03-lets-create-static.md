@@ -27,7 +27,7 @@ It's the easiest way to create your static website.
 
 > Start with one click [check Live Demo](https://themes.gohugo.io/theme/hugo-lodi-theme/)
 
-- Netlify account it's a Free platform. Netlify gives you a platform where you can host your website. Their serverless cloudhosting platform widely used by static site generators also there Content delivery Network deployment pipeline with a single workes makes them Fast.
+- [Netlify](https://www.netlify.com/) account it's a Free platform. Netlify gives you a platform where you can host your website. Their serverless cloudhosting platform widely used by static site generators also there Content delivery Network deployment pipeline with a single workes makes them Fast.
 - it gives you free SSL.
 - netlify is free.
 - serverless backend you can access by everywhere.
@@ -41,7 +41,7 @@ So now we a're aware about our essential need:
 
 2. [Stackbit](https://stackbit.com) headless cms you can edit your text, files everything.
 
-3. [Netlify](www.netlify.com) deploy and publish your site.
+3. [Netlify](https://www.netlify.com/)deploy and publish your site.
 
 ## start with Github account signup if you don't have or login:
 ### step1:
