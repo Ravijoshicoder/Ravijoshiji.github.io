@@ -17,7 +17,7 @@ tags: [wordpress]
 **So, before Dive into the Topic I assume everyone is aware of [static]( https://www.google.com/amp/s/techterms.com/amp/definition/staticwebsitevs) Dynamic websites. I will give you short intro about static vs dynamic websites** but won't dig deeper .
 
 ### Static vs Dynamic?
-Static websites loads faster because it runs on local server without database, no database enquiries , no template engine files can be cached and served immediatiely upon Request. While dynamic files changed on server and then served to its users.
+Static websites loads faster because it runs on local server without database, no database enquiries , no template engine files can be cached and served immediatiely upon Request. While [dynamic](https://www.templatemonster.com/blog/what-is-dynamic-website/#:~:text=A%20dynamic%20website%20is%20a,consumer%20interplay%2C%20or%20day%20time.) files changed on server and then served to its users.
 
 ### what you'll need Before creating a static website.
 It's the easiest way to create your static website.
