@@ -46,7 +46,7 @@ So now we a're aware about our essential need:
 ## start with Github account signup if you don't have or login:
 ### step1:
 
-Start with one click check Live Demo. Or search for theme I will address you a Free [minimal portfolio theme](https://github.com/luizdepra/hugo-coder)Fork it you will find the fork tab on right extreme corner. Now it's added to your Repository now goto the bottom of the page and click on Create with stackbit. as soon as you click on that button you will be redirected to stackbit platform.
+Start with one click check Live Demo. Or search for theme I will address you a Free [minimal portfolio theme](https://github.com/luizdepra/hugo-coder) Fork it you will find the fork tab on right extreme corner. Now it's added to your Repository now goto the bottom of the page and click on Create with stackbit. as soon as you click on that button you will be redirected to stackbit platform.
 
 ## Choose your headless CMS Platform.
 ### Step 2.
