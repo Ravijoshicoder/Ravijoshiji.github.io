@@ -14,7 +14,7 @@ tags: [wordpress]
 ## you are just 3 step far from launching your first Static website.
 *The web development area is very vast. According to [wikipedia](https://en.m.wikipedia.org/wiki/List_of_programming_languages) more than seven thousand plus programming Languages exists in 2020 athough few of them are used day by day out of 7 thousand, less than 50 languages which is being popularly used.*
 
-**So, before Dive into the Topic I assume everyone is aware of static vs Dynamic websites. I will give you short intro about static vs dynamic websites** but won't dig deeper .
+**So, before Dive into the Topic I assume everyone is aware of [static]( https://www.google.com/amp/s/techterms.com/amp/definition/staticwebsitevs) Dynamic websites. I will give you short intro about static vs dynamic websites** but won't dig deeper .
 
 ### Static vs Dynamic?
 Static websites loads faster because it runs on local server without database, no database enquiries , no template engine files can be cached and served immediatiely upon Request. While dynamic files changed on server and then served to its users.
