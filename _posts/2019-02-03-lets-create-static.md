@@ -23,7 +23,7 @@ Static websites loads faster because it runs on local server without database, n
 It's the easiest way to create your static website.
 
 - [Github account](https://github.com/).
-- some best static site generators like [Jekyll](https://jekyllrb.com/docs/) , Hugo , 11ty but I would suggest Stackbit if you are completely new in development field . stackbit provides Live page preview while editing. However Forestry.io does the same but doesn't gives live preview while editing. You have to manually change every files .
+- some best static site generators like [Jekyll](https://jekyllrb.com/docs/) , Hugo , 11ty but I would suggest [Stackbit](https://www.stackbit.com/)if you are completely new in development field . stackbit provides Live page preview while editing. However [Forestry.io](https://forestry.io/) does the same but doesn't gives live preview while editing. You have to manually change every files .
 
 > Start with one click [check Live Demo](https://themes.gohugo.io/theme/hugo-lodi-theme/)
 
