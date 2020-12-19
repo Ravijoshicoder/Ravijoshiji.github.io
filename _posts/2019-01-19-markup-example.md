@@ -25,3 +25,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<p style="background-color:#bbffe4" class="has-background">The first “public” museums were often accessible only by the middle and upper classes. It could be difficult to gain entrance. When the British Museum opened to the public in 1759, it was a concern that large crowds could damage the artifacts. </p>
