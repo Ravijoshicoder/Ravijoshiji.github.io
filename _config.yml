@@ -1,5 +1,5 @@
 # Site
-name: 'Bloggingwithravi'
+name: ''
 description: 'I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -26,7 +26,7 @@ google_analytics: 'UA-143528900-5'
 authors:
     sal:
       name:           Ravi Joshi
-      site:           https://bloggingwithravi.com
+      site:           
       avatar:         /assets/images/20201127_115441.ico
       bio:            "i've always been fiddling with tech for as long as i remember. This naturally transitioned into helping friends with their tech problems and then into tech blogging"
       email:          bloggingwithraviOO7@gmail.com
@@ -34,7 +34,7 @@ authors:
 
 #     jane:
       name:           Ravi Joshi
-      site:           https://bloggingwithravi.com
+      site:           
       avatar:         /assets/images/20201127_115441.ico
       bio:           "I've always been fiddling with tech for as long as i remember. This naturally transitioned into helping friends with their tech problems and then into tech blogging"
       email:          bloggingwithraviOO7@gmail.com
